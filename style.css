@@ -1,0 +1,26 @@
+body {
+  height: 100%;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  /* background: #f16b6bb2; */
+  background: #f5acacb2;
+  color: white;
+}
+.answer-container {
+  font-size: 44px;
+  border-radius: 6px;
+  margin-top: 200px;
+  margin: 30px;
+  padding: 200px;
+  background: #ffd582;
+  color: white;
+  font-weight: bold;
+  -webkit-box-shadow: 2px 8px 17px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 8px 17px -9px rgba(0,0,0,0.75);
+    box-shadow: 2px 8px 17px -9px rgba(0,0,0,0.75);
+}
+.header-text {
+  margin: 0 auto;
+  max-width: 660px;
+  text-align:center;
+  font-size: 40px;
+}
